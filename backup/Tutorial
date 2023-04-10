@@ -1,0 +1,24 @@
+Official Documentation on UDP F1 2020
+https://forums.codemasters.com/topic/50942-f1-2020-udp-specification/
+
+
+1. How to run JS on local browser ?
+Using nodeJS
+
+2. How to install f1 2020 telemetry ?
+Just run NPM Install on folder F1-2020-telemetry...
+Then run Localhost:3000 on browser
+https://github.com/maici95/f1-2020-telemetry
+
+>> How to run project
+Type this in CMD
+    node getData.js
+
+
+
+
+
+Programming Stuff
+1. Untuk versi python sekarang, gak bisa diakses pakai command "pip" dari CMD, sekarang pakai command "py -m pip..." https://pip.pypa.io/en/stable/quickstart/
+
+
